@@ -30,7 +30,7 @@ flex-shrink: 0;
 }
 .sidebar{
     position: absolute;
-    background-color: rgb(234, 216, 216) ;
+    background-color: rgb(232, 223, 223) ;
     height: 600px;
     width: 200px;
 }
