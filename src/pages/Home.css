@@ -1,0 +1,40 @@
+.header{
+    color: #000;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: 0.36px;
+}
+.Language{
+    color: #000;
+    margin-left: 15px;
+
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 0.32px;
+}
+.form{
+margin-left: 15px;
+letter-spacing: 0.32px;
+width: 256px;
+height: 657px;
+flex-shrink: 0;
+}
+.hr{
+    width: 200px;
+}
+.sidebar{
+    position: absolute;
+    background-color: rgb(234, 216, 216) ;
+    height: 600px;
+    width: 200px;
+}
+.main{
+    /* margin-left: 200p; */
+    padding-left: 200px;
+}
